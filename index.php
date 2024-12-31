@@ -87,7 +87,7 @@
         </a>
     </div>
     <div style="font-size: 14px; color:black; margin-top: 10px;">
-        &copy; <?php echo date("Y"); ?> NetCare. All Rights Reserved.
+        &copy; <?php echo date("Y"); ?>The NetCare Hospitals. All Rights Reserved.
     </div>
 </div>
     </section>
